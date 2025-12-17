@@ -1,0 +1,8 @@
+{
+    "SERVER_IP" : "192.168.0.218",
+    "PORT" : 5000,
+    "AUTH_TOKEN" : "test",
+    "INSTRUMENT_ALIAS": "windows-sy",
+    "WATCH_DIR": "C:\\Users\\57408\\Desktop\\code\\python\\采集组件\\原数据采集代码\\test",
+    "USER_DATA": "C:\\Users\\57408\\Desktop\\code\\python\\采集组件\\原数据采集代码\\user_data"
+}
